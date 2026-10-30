@@ -1,6 +1,0 @@
-{
-  "name": "Verdarium — Botanical Herbarium & Care Studio",
-  "description": "Identify plant species from photos, diagnose foliar health, manage watering schedules, and consult an expert botanical assistant.",
-  "requestFramePermissions": ["camera"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
